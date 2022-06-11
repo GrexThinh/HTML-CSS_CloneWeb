@@ -1,1 +1,1 @@
-# Clone Web One-page using HTML-CSS
+# Clone Web one-page using HTML-CSS
